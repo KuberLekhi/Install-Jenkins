@@ -1,0 +1,8 @@
+sudo apt install nodejs 
+nodejs --version
+npm install 
+npm --version
+npm start   
+#might need to download sql3 and express
+
+#once it starts the application will be running at <public-ip-of-instance:3000>
